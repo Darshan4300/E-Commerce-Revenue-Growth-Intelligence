@@ -1,0 +1,15 @@
+SQL_Analysis/
+│
+├── 01_Basic_Counts.sql
+├── 02_Basic_Aggregations.sql
+├── 03_Order_Analysis.sql
+├── 04_Revenue_Analysis.sql
+├── 05_Product_Analysis.sql
+├── 06_Customer_Analysis.sql
+├── 07_Payment_Analysis.sql
+├── 08_Review_Analysis.sql
+├── 09_Seller_Analysis.sql
+├── 10_Geographic_Analysis.sql
+├── 11_KPI_Queries.sql
+├── 12_Monthly_Growth.sql
+└── 13_Business_Insights.sql

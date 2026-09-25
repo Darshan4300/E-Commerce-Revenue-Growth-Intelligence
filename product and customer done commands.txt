@@ -1,0 +1,168 @@
+
+
+05_Product_Analysis.sql — Completed Query List
+
+Q.No.Analysis
+
+Q1
+
+Total Number of Products
+
+Q2
+
+Products with Missing Category
+
+Q3
+
+Number of Products by Category
+
+Q4
+
+Average Product Weight
+
+Q5
+
+Minimum and Maximum Product Weight
+
+Q6
+
+Average Number of Product Photos
+
+Q7
+
+Average Product Dimensions
+
+Q8
+
+Missing Product Data
+
+Q9
+
+Products by Weight Range
+
+Q10
+
+Products by Photo Count
+
+Q11
+
+Average Product Name Length
+
+Q12
+
+Average Product Description Length
+
+Q13
+
+Top 10 Categories by Average Product Price
+
+Q14
+
+Product Count by Category
+
+Q15
+
+Average Product Weight by Category
+
+Q16
+
+Average Product Photos by Category
+
+Q17
+
+Products with Zero Weight
+
+Q18
+
+Products with Zero Dimensions
+
+Q19
+
+Top 10 Categories by Total Product Weight
+
+Q20
+
+Top 10 Most Expensive Products
+
+
+&
+
+06_Customer_Analysis.sql — COMPLETE
+
+We have 12 useful analyst-level queries.
+
+QueryAnalysisStatus
+
+Q1
+
+Total Customer Records
+
+✅
+
+Q2
+
+Unique Customers
+
+✅
+
+Q3
+
+Customers by State
+
+✅
+
+Q4
+
+Customers with Multiple Orders
+
+✅
+
+Q5
+
+Total Repeat Customers
+
+✅
+
+Q6
+
+Repeat Customer Rate
+
+✅
+
+Q7
+
+Top 10 States by Customer Base
+
+✅
+
+Q8
+
+Average Orders per Customer
+
+✅
+
+Q9
+
+Customers by Order Frequency
+
+✅
+
+Q10
+
+Top 10 Customer Cities
+
+✅
+
+Q11
+
+Customer Distribution by State
+
+✅
+
+Q12
+
+Missing Customer Data
+
+✅
+
+Total: 12 / 12 → COMPLETE ✅
